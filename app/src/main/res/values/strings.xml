@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_titulo">Calcular de IMC</string>
+    <string name="text_entrada_valor_peso">Entre com seu peso</string>
+    <string name="text_entrada_valor_altura">Entre com seu altura</string>
+    <string name="botao_reusltado">Botao</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
